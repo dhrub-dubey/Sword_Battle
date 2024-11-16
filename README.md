@@ -1,8 +1,4 @@
-# End of Support
 
-It's been a long journey of me maintaining this [mess of a codebase](https://iogames.forum/t/announcing-swordbattle-io-v2-0/2484) for 2+ years and I think it's time to move on... I will no longer be actively maintaining the legacy codebase.
-
-The adventure doesn't stop here! Check out the new and updated swordbattle code [here](https://github.com/codergautam/swordbattle.io)!
 
 
 # Welcome!
@@ -11,9 +7,6 @@ Swordbattle.io is a multiplayer game where players fight each other with diffren
 
 Play now at [swordbattle.io](http://swordbattle.io) and see the [leaderboard](https://www.swordbattle.io/leaderboard).
 
-## Community
-* [Forum (most active)](https://forum.codergautam.dev)
-* [Discord](https://discord.com/invite/BDG8AfkysZ)
 
 ## Usage
 
